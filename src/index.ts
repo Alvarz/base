@@ -1,4 +1,3 @@
-import Logger from './Logger';
 /**
  * Bearded Logger
  *
@@ -6,5 +5,5 @@ import Logger from './Logger';
  * @author   Carlos Alvarez <beardedframework@gmail.com>
  */
 
+console.log("bearded's base modules")
 
-export default Logger;
